@@ -1,6 +1,6 @@
 In this project, let's build a **Match Game** by applying the concepts we have learned till now.
 
-## Here is Project - [Link](https://clickmatch.ccbp.tech/)
+## Here is Project - [Link](https://clickamatch.ccbp.tech/)
 
 
 <div style="text-align: center;">

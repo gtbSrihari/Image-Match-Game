@@ -45,6 +45,7 @@
 .score-timer-container {
   display: flex;
   list-style-type: none;
+  align-items: center;
 }
 .score-container {
   display: flex;
@@ -56,11 +57,19 @@
   margin-right: 10px;
   margin-top: 8px;
 }
+.alarm-icon {
+  height: 20px;
+  width: 20px;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
 .icon {
   height: 20px;
   width: 20px;
   color: #ffffff;
 }
+
 .p {
   color: #ffffff;
   font-size: 15px;
